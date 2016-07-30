@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "blockhatsBySubaraki",
+  "name": "Block Hats",
+  "description": "Allows for players to /hat the currently held block",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Subaraki"],
+  "credits": "Subaraki, MC Forge, MC, waj171(asked for hat mod)",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
