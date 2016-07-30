@@ -1,6 +1,6 @@
 [
 {
-  "modid": "blockhatsBySubaraki",
+  "modid": "blockhats",
   "name": "Block Hats",
   "description": "Allows for players to /hat the currently held block",
   "version": "${version}",
